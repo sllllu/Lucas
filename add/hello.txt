@@ -1,6 +1,6 @@
 #include<stdio.h>
 Int main(){
-printf("Hello world!");
+printf("Wow world!");
 Return 0;
 }
 change in server
